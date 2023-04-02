@@ -3,10 +3,10 @@
 This is a web-based dashboard for visualizing data related to deliveries, volunteers, and inventory.
 
 ## Requirements
-Python 3.x
-Dash
-pandas
-Plotly Express
+- Python 3.x
+- Dash
+- pandas
+- Plotly Express
 
 
 ## Features
